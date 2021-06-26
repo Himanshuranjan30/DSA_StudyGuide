@@ -1,0 +1,49 @@
+Bit Manipulation basically means, we play with the inputs, or numbers bitwise.
+
+We all know, a number can be represented in Binary format, where each bit is either 0 or 1, like, “2” can be represented as “10”, or “22” can be represented as “10110”.
+
+We are going to discuss here, about the basic bits manipulations, We will discuss some more bit manipulations in further articles.
+
+1. Getting a bit of a number
+
+2. Setting a bit of a number
+
+3. Clearing a bit of a number
+
+Lets start with getting “i”th bit of a number, Suppose the given number is 8, and we have to extract its 2nd bit. 
+
+Binary representation of “8” : 1000, 0th bit = 0, 1st bit = 0, 2nd bit = 0, 3rd bit = 1.
+
+N = 8, i = 2
+
+   1000                                                                                                                  
+   & 0100     <—— (AND with this mask)                                                                     ———                                                                                                                   0000  <—— if this is “0” then “i”th bit is 0, if it is not zero, then “i”th bit is 1.       ———
+
+result = (N & mask) ? 1 : 0 = (N & (1<<i)) ? 1 : 0
+
+How to get this mask? simply, left shift “1”, “i” times, i.e., 1<<2 (i here is 2), we get, 100. Now, Do the AND operation of the number with mask. If the answer is non-zero then the ith bit is 1, else, ith bit 0.
+
+Setting “i”th bit of a number
+
+Suppose the given number is 11, and we have to set its 2nd bit.
+
+N = 11, i = 3                                                                                                          
+11 in binary format : 1011, 0th bit = 1, 1st bit = 1, 2nd bit = 0, 3rd bit = 1.
+
+   1011                                                                                                                   
+   | 0100   <——- (OR with this mask)                                                                       ———-                                                                                                                   1111     <——- This is the result number after setting the “i”th bit.                     ———-                                                                                                                
+
+result = (N | mask) = (N | (1<<i))
+
+How to get this mask? “1” left shift by “i”, i.e., 1<<2 = 100. Do the OR operatio of the number with this mask will get you the answer.
+
+Clearing “i”th bit of a number
+
+N = 11, i = 1                                                                                                         
+
+   1011                                                                                                                  
+   & 1101   <—– (AND with this mask)                                                                        ———                                                                                                                   1001                                                                                                                    ———
+
+ Mask is a number with all “1” bits except the “i”th bit : 1101, We may notice here that it is NOT of “0010”, How to get this second mask “0010”? Left shift “1” by “i”.
+
+result = (N & (~(1<<i)))
