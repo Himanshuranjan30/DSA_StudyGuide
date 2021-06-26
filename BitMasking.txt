@@ -47,3 +47,7 @@ N = 11, i = 1
  Mask is a number with all “1” bits except the “i”th bit : 1101, We may notice here that it is NOT of “0010”, How to get this second mask “0010”? Left shift “1” by “i”.
 
 result = (N & (~(1<<i)))
+
+
+Code:  
+https://hackmykaam.com/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-21-at-9.26.31-PM.jpeg
