@@ -4,3 +4,4 @@
 - DP Patterns:  https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns  
 - Graphs Patterns and Problems: https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions
 - A pretty cool DP guide: https://leetcode.com/discuss/study-guide/475924/My-experience-and-notes-for-learning-DP
+- 12 week Leetcode guide: https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/edit
