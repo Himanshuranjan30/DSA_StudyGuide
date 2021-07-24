@@ -7,3 +7,4 @@
 - 12 week Leetcode guide: https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/edit
 - A noob's guide to Dijkstra's Algorithm: https://leetcode.com/discuss/study-guide/1059477/A-noob's-guide-to-Dijkstra's-Algorithm
 - Binary Tree Guide: https://leetcode.com/discuss/study-guide/1212004/Binary-Trees-study-guide
+- STL functions guide: https://leetcode.com/discuss/interview-question/1359115/all-c-stl-internal-implementation-last_minute_notes-2021
