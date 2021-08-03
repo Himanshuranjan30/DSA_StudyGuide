@@ -11,3 +11,4 @@
 - General Backtracking approach: https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-%28Subsets-Permutations-Combination-Sum-Palindrome-Partioning%29
 - Graph algorithms to practice: https://leetcode.com/discuss/study-guide/1326900/Graph-algorithms-%2B-problems-to-practice
 - Famous Backtracking problems: https://leetcode.com/discuss/interview-question/1098081/famous-backtracking-problems
+- Blog on cracking Backtracking: https://www.freecodecamp.org/news/coding-interview-backtracking-problems-crash-course/
