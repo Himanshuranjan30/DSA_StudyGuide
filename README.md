@@ -9,3 +9,4 @@
 - Binary Tree Guide: https://leetcode.com/discuss/study-guide/1212004/Binary-Trees-study-guide
 - STL functions guide: https://leetcode.com/discuss/interview-question/1359115/all-c-stl-internal-implementation-last_minute_notes-2021
 - General Backtracking approach: https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-%28Subsets-Permutations-Combination-Sum-Palindrome-Partioning%29
+- Graph algorithms to practice: https://leetcode.com/discuss/study-guide/1326900/Graph-algorithms-%2B-problems-to-practice
