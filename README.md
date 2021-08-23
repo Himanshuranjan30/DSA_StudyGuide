@@ -13,3 +13,4 @@
 - Famous Backtracking problems: https://leetcode.com/discuss/interview-question/1098081/famous-backtracking-problems
 - Blog on cracking Backtracking: https://www.freecodecamp.org/news/coding-interview-backtracking-problems-crash-course/
 - DP templates: https://leetcode.com/discuss/interview-question/1380561/template-for-dynamic-programming
+- Bit Manipulation Cheatsheet: https://leetcode.com/discuss/study-guide/1412978/Bit-Manipulation-Tricks-or-Helpful-and-concise  
