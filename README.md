@@ -15,3 +15,4 @@
 - DP templates: https://leetcode.com/discuss/interview-question/1380561/template-for-dynamic-programming
 - Bit Manipulation Cheatsheet: https://leetcode.com/discuss/study-guide/1412978/Bit-Manipulation-Tricks-or-Helpful-and-concise  
 - BackTracking guide: https://leetcode.com/problems/combination-sum/discuss/16502/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning)
+- Java CheatSheet: https://leetcode.com/discuss/study-guide/1170715/Java-or-Data-Structure-Mostly-used-Syntax
