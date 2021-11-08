@@ -16,3 +16,4 @@
 - Bit Manipulation Cheatsheet: https://leetcode.com/discuss/study-guide/1412978/Bit-Manipulation-Tricks-or-Helpful-and-concise  
 - BackTracking guide: https://leetcode.com/problems/combination-sum/discuss/16502/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning)
 - Java CheatSheet: https://leetcode.com/discuss/study-guide/1170715/Java-or-Data-Structure-Mostly-used-Syntax
+- Interview Cheatsheet: https://leetcode.com/discuss/study-guide/1098600/TOPICS-WHICH-YOU-CAN'T-SKIP-INTERVIEW-PREPARATION-or-STUDY-PLAN-USING-LEETCODE
