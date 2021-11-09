@@ -296,29 +296,3 @@ int main()
 	}
 }
 
-int numSquaresinRectangle(int m,int n)
-{
-	int count=0;
-
-
-	for(int i=1;i<=std::min(n,m);i++)
-		{
-			count+=((m-i)+1)*((n-i)+1);
-		}
-	
-	return count;
-	
-}
-
-int numSquaresinSquare(int n)
-{
-	std::vector<int> dp(n+1);
-	dp[0]=0;
-	dp[1]=1;
-	for(int i=2;i<=n;i++)
-	{
-		dp[i]=dp[i-1]+i*i;
-	}
-	return dp[n];
-
-}
